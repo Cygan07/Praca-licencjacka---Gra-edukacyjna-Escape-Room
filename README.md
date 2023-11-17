@@ -1,4 +1,4 @@
-# Praca licencjacka Gra edukacyjna Escape-Room
+# Praca licencjacka - Gra edukacyjna Escape-Room
 
 
 ## Opis projektu
